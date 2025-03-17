@@ -81,3 +81,4 @@ A deep learning-based face recognition project that uses advanced AI algorithms 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
 </div>
+
