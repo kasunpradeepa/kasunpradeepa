@@ -58,7 +58,7 @@ A deep learning-based face recognition project that uses advanced AI algorithms 
   <a href="https://fb.com/profile.php?id=100087161271947" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://linkedin.com/in/kasunpradeepa" target="_blank">
+  <a href="https://www.linkedin.com/in/kasun-pradeepa-11344a353/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
